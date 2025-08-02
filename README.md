@@ -1,0 +1,1 @@
+this is a fork of a library made to interface with lora tranceivers. I got frustrated, that my lora devices didnt work, so i crated this fork, as a minimal working solution, for everybodey, that want their lora to just work.
