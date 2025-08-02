@@ -11,9 +11,9 @@
 #include <driver/gpio.h>
 #include "esp_log.h"
 
-#include "ra01s.h"
+#include "sx126x.h"
 
-#define TAG "RA01S"
+#define TAG "sx126x"
 
 // // SPI Stuff
 // #if CONFIG_SPI2_HOST
